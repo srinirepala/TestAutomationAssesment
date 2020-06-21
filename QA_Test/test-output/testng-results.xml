@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30894" started-at="2020-06-21T06:44:18Z" finished-at="2020-06-21T06:44:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30894" started-at="2020-06-21T06:44:18Z" finished-at="2020-06-21T06:44:49Z">
+      <class name="com.absa.qa.test.AddUserTest">
+        <test-method status="PASS" signature="Next()[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="Next" is-config="true" duration-ms="9776" started-at="2020-06-21T06:44:19Z" finished-at="2020-06-21T06:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Next -->
+        <test-method status="PASS" signature="newAddUser1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="newAddUser1" duration-ms="1767" started-at="2020-06-21T06:44:29Z" data-provider="getATestData" finished-at="2020-06-21T06:44:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FName3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LName3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pass3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Company AAA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[admin@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[82555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newAddUser1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="close" is-config="true" duration-ms="4163" started-at="2020-06-21T06:44:30Z" finished-at="2020-06-21T06:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="Next()[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="Next" is-config="true" duration-ms="8378" started-at="2020-06-21T06:44:34Z" finished-at="2020-06-21T06:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Next -->
+        <test-method status="PASS" signature="newAddUser1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="newAddUser1" duration-ms="1728" started-at="2020-06-21T06:44:43Z" data-provider="getATestData" finished-at="2020-06-21T06:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FName4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LName4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pass4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Company BBB]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Customer]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[customer@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[83444]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newAddUser1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.absa.qa.test.AddUserTest@402a079c]" name="close" is-config="true" duration-ms="4177" started-at="2020-06-21T06:44:45Z" finished-at="2020-06-21T06:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.absa.qa.test.AddUserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
